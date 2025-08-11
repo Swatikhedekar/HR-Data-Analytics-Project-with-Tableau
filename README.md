@@ -1,4 +1,4 @@
 # HR-Data-Analytics-Project-with-Tableau
 
-## Description
+## Project Description
 Every company has a HR department
